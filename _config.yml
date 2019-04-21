@@ -1,12 +1,12 @@
-title: Tauseef Jamadar
-description: Stuff that I come across and find interesting.
-author: Tauseef Jamadar
-email: tmjam.ahmed@gmail.com
-phone: (650) 576-5403
-github: https://github.com/tmjam
-about: I am a Software Engineer at <a href="https://www.build.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
-disqus_shortname: programming
-google_analytics: UA-31048387-6
+title: Robin Familara
+description: Unlimited interesting things.
+author: Robin Familara
+email: rfamilara2019@gmail.com
+phone: (504) 210-7342
+github: https://github.com/ironbott-tech
+about: I am a Software Engineer at <a href="https://www.lambdaschool.com" target="_blank">Build.com</a> and a freelance developer. I love working on backend and frontend technologies.
+disqus_shortname: hybrid-engineer
+google_analytics: 
 avatar_url: /static/img/me.jpg
 
 enableTags: true
@@ -19,19 +19,19 @@ collections:
 
 social:
     - icon: fa-facebook
-      link: "https://www.facebook.com/tjamadar"
+      link: "https://www.facebook.com/cybertechbin"
     - icon: fa-twitter
-      link: "https://twitter.com/tmjam3011"
+      link: "https://twitter.com/Niborhoods"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/tauseef-jamadar-5b577913/"
+      link: "https://www.linkedin.com/in/rf2017/"
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/tmjam"
+      link: "https://github.com/ironBott-tech"
 
 share:
   twitter_username: tmjam3011
-  # fb_appid: 1749788565247320
+  # fb_appid: 
 
 urls:
     - text: About Me
@@ -43,12 +43,12 @@ urls:
     - text: XML Feed
       url: /feed.xml
 # url: "http://localhost:4000"
-url: "https://tmjam.github.io/tauseef-blog"
+url: "https://github.com/ironBott-tech/ironBott-tech.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
 paginate_path: "/blogs/page/:num/"
-markdown: kramdown
+markdown: 
 gems:
   - jekyll-paginate
   - jekyll-gist
